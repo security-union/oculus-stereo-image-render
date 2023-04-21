@@ -1,7 +1,15 @@
 # oculus-stereo-image-render
 
 ## TLDR
-Using two cameras, one attached to each eye, and using layers to filter what each eye can see is another way to achieve the same result of displaying different images on each eye in an Oculus XR Unity app. Here's how you can do it:
+Using two cameras, one attached to each eye, and using layers to filter what each eye can see is another way to achieve the same result of displaying different images on each eye in an Oculus XR Unity app. 
+
+### Left Eye Camera
+![Screen Shot 2023-04-21 at 3 10 10 PM](https://user-images.githubusercontent.com/1176339/233716152-a1860f51-9f67-4cc8-bc15-d1be54126c72.png)
+
+### Right Eye Camera
+![Screen Shot 2023-04-21 at 3 10 13 PM](https://user-images.githubusercontent.com/1176339/233716138-656d00b3-8bf1-42d4-8560-8f2af9c58b43.png)
+
+Here's how you can do it:
 
  
 ## What I built
